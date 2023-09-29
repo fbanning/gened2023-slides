@@ -1,4 +1,4 @@
-This is the repository for the slides of my presentation at SSC 2023 in Glasgow.
+This is the repository for the slides of my presentation at GENED meeting 2023 in Bamberg.
 
 **"How Schwartz values influence social networks in the workplace"**  
 Frederik Banning, Marcin Czupryna, Bogumił Kamiński
