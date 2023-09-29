@@ -2,7 +2,7 @@
 
 *Frederik Banning, Marcin Czupryna, Bogumił Kamiński*
 
-Bamberg, 29. September 2023
+Bamberg, 04. October 2023
 
 <img height=100vh src="img/RUB-logo.svg">
 <img height=100vh src="img/UEK-logo.png">
